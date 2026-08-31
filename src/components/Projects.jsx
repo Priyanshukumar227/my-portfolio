@@ -29,13 +29,6 @@ const projectData = [
     skills: ["Python", "Machine Learning",],
     Time: "Feb 2023",
   },
-  {
-    name: "Movie Search Website",
-    description:
-      "A responsive movie search application that fetches movie data from an external API and displays relevant results based on user search.",
-    skills: ["ReactJS", "JavaScript", "REST API", "CSS"],
-    Time: "September 2025",
-  },
 ];
 
 const Projects = () => {
