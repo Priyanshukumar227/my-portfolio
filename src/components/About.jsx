@@ -7,7 +7,7 @@ const About = () => {
   return (
     <div>
       <p className="AboutP">
-        1111I am a professional and enthusiastic Software developer who loves learning and
+        I am a professional and enthusiastic Software developer who loves learning and
         exploring new technologies. I am passionate about problem-solving and
         designing user-friendly applications. My core skills include Flutter,
         ReactJS, Dart, and JavaScript, and I enjoy turning ideas into
