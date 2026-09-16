@@ -39,7 +39,6 @@ a {
 .myname {
   background: linear-gradient(90deg, #c084fc, #8b5cf6, #38bdf8);
   -webkit-background-clip: text;
-  background-clip: border-box;
   -webkit-text-fill-color: transparent;
   font-weight: 700;
   text-shadow: 0 0 15px rgba(168, 85, 247, 0.5);
