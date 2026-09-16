@@ -2,10 +2,10 @@ import React from "react";
 
 const projectData = [
   {
-    name: "Hello Chotu Customer App",
+    name: "Customer App",
     description:
-      "Developed the HelloChotu Customer, where customers can access services and manage their activities, while retailers can register, complete KYC verification, manage their business, and monitor operations through real-time dashboards.",
-    skills: ["Dart", "Flutter", "Firebase", "Postman", "REST APIs", "Figma"],
+      "Developed and maintained the Hello Chotu Customer App at Social Glue using Flutter, Dart, BLoC, REST APIs, and Firebase. Built responsive UI, integrated APIs, implemented key features, resolved production issues, and optimized performance. A customer-focused platform for discovering local services, placing orders, tracking deliveries, and managing purchases.",
+      skills: ["Dart", "Flutter", "Firebase", "Postman", "REST APIs", "Figma"],
     Time: "March 2026",
   },
   {
@@ -21,6 +21,13 @@ const projectData = [
       "Developed Film Frame Finder, a React.js movie discovery application that allows users to search and explore movies using the TMDB API, with responsive layouts and optimized search performance for a smooth browsing experience.",
     skills: ["ReactJS", "JavaScript", "REST API", "CSS", "HTML"],
     Time: "April 2024",
+  },
+  {
+    name: "Restaurant App",
+    description:
+      "Developed and maintained the Hello Chotu Restaurant App at Social Glue using Flutter, Dart, BLoC, REST APIs, and Firebase. Built responsive interfaces, integrated APIs, implemented restaurant management features, fixed production issues, and optimized performance. A restaurant management platform for managing menus, orders, customers, offers, and daily restaurant operations.",
+    skills: ["Dart", "Flutter", "Firebase", "Postman", "REST APIs", "Figma"],
+    Time: "July 2026",
   },
    {
     name: "Plagiarism Detection System",

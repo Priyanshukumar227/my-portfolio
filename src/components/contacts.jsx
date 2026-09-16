@@ -4,7 +4,7 @@ import { FaEnvelope, FaLinkedin, FaGithub } from "react-icons/fa";
 const Contacts = () => {
   const email = "kumar123priyanshu123p@gmail.com";
   const linkedinUrl = "https://www.linkedin.com/in/priyanshu-kumar-560166215/";
-  // const githubUrl = "https://github.com/Priyanshukumar227";
+  const githubUrl = "https://github.com/Priyanshukumar227";
 
   const copyEmail = () => {
     navigator.clipboard.writeText(email);
@@ -38,7 +38,7 @@ const Contacts = () => {
         </a>
 
         {/* GitHub */}
-        {/* <a
+        <a
           href={githubUrl}
           target="_blank"
           rel="noopener noreferrer"
@@ -46,7 +46,7 @@ const Contacts = () => {
           title="Open GitHub"
         >
           <FaGithub />
-        </a> */}
+        </a>
 
       </div>
     </section>
