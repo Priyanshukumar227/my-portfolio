@@ -14,6 +14,22 @@ const leftskills = [
     icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg",
   },
   {
+    name: "LLM",
+    icon: "https://cdn.simpleicons.org/huggingface",
+  },
+  {
+    name: "NLP",
+    icon: "https://cdn.simpleicons.org/spacy",
+  },
+  {
+    name: "LangChain",
+    icon: "https://cdn.simpleicons.org/langchain",
+  },
+  {
+    name: "LangGraph",
+    icon: "https://cdn.simpleicons.org/langgraph",
+  },
+  {
     name: "JavaScript",
     icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg",
   },
@@ -71,6 +87,14 @@ const rightSkills = [
   {
     name: "Postman",
     icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg",
+  },
+  {
+    name: "RAG",
+    icon: "https://cdn.simpleicons.org/elasticsearch",
+  },
+  {
+    name: "ML",
+    icon: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg",
   },
   {
     name: "Android Studio",

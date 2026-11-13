@@ -5,8 +5,15 @@ const projectData = [
     name: "Customer App",
     description:
       "Developed and maintained the Hello Chotu Customer App at Social Glue using Flutter, Dart, BLoC, REST APIs, and Firebase. Built responsive UI, integrated APIs, implemented key features, resolved production issues, and optimized performance. A customer-focused platform for discovering local services, placing orders, tracking deliveries, and managing purchases.",
-      skills: ["Dart", "Flutter", "Firebase", "Postman", "REST APIs", "Figma"],
+    skills: ["Dart", "Flutter", "Firebase", "Postman", "REST APIs", "Figma"],
     Time: "March 2026",
+  },
+  {
+    name: "AI-Chatbot",
+    description:
+      "Developed a Python-based AI chatbot using LangChain and Google's Gemini LLM, enabling users to have interactive, context-aware conversations and get responses to queries across a wide range of topics.",
+    skills: ["Python", "LangChain", "Google Gemini API", "LLMs"],
+    Time: "Nov 2026",
   },
   {
     name: "Vessel Performave System",
@@ -15,6 +22,7 @@ const projectData = [
     skills: ["Dart", "Flutter", "Firebase", "Postman", "REST APIs"],
     Time: "Fev 2025",
   },
+
   {
     name: "Movie Search Website",
     description:
@@ -29,11 +37,11 @@ const projectData = [
     skills: ["Dart", "Flutter", "Firebase", "Postman", "REST APIs", "Figma"],
     Time: "July 2026",
   },
-   {
+  {
     name: "Plagiarism Detection System",
     description:
       "Developed a Plagiarism Detection System using Python and Machine Learning to compare documents, identify similar or duplicate content, and generate similarity results through an automated document processing pipeline.",
-    skills: ["Python", "Machine Learning",],
+    skills: ["Python", "Machine Learning"],
     Time: "Feb 2023",
   },
 ];
